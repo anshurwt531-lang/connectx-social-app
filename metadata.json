@@ -1,0 +1,6 @@
+{
+  "name": "ConnectX - Next-Gen Social Media & Creative Studio",
+  "description": "A modern social media app combining Instagram feed & stories, Snapchat snaps, and WhatsApp messaging with an AI Logo Designer and Veo Image-to-Video animator.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
